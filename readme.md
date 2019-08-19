@@ -1,4 +1,4 @@
-# Responsive-Dropdown-Navigation-Bar
+# Bootstrap 4 Beta Theme Responsive DJ Site theme
 
 This simple repo shows how to create a Bootstrap 4 responsive theme using CSS3 and HTML5 . We use Sass preprocessor and Gulp task runner for development.  To use Gulp you must have nodejs installed in your computer.
 
